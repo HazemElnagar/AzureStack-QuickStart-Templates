@@ -6,7 +6,7 @@
     "OSBaseVersion": {
       "allowedValues": [
         "2022-Datacenter-core",
-        "2022-Datacenter",
+        "2022-Datacenter-SmallDisk",
         "2019-Datacenter-Core",
         "2019-Datacenter"
       ],
